@@ -7,7 +7,7 @@ function App() {
       Hello{" "}
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Hello test page</title>
+        <title>test page</title>
         <meta
           name="description"
           content="Vào app để kết bạn trò chuyện ngay nào! Tải về ứng dụng ở CH Play Apple Store EVILA để mở yến tiệc tưng bừng cùng nhiều idol xinh đẹp."
