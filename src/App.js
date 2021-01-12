@@ -20,7 +20,7 @@ function App() {
         <meta property="og:image:type" content="image/jpeg" />
         <meta
           property="og:image"
-          content="https://static.evi.la/resource/wm/og_evila_default.jpg"
+          content="https://static.evi.la/cover/user/10015_512_0_1.jpg"
         />
         <meta
           property="og:image:alt"
